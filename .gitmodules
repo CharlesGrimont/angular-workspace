@@ -1,0 +1,3 @@
+[submodule "projects/angular-progress-bar"]
+	path = projects/angular-progress-bar
+	url = git@github.com:CharlesGrimont/angular-progress-bar.git
